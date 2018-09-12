@@ -1,0 +1,14 @@
+{
+  "name": "sim_history",
+  "version": "1.0.0",
+  "description": "created app android first",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello word"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "Rembo",
+  "license": "ISC"
+}
